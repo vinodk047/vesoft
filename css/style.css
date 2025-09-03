@@ -1,0 +1,14 @@
+@font-face {
+font-family: 'CalSans';
+src: url('CalSans-Regular.ttf') format('truetype');
+}
+.vesoft {
+font-family: 'CalSans', sans-serif;
+font-size: 64px;
+}
+.ve {
+fill: rgb(103, 192, 144);
+}
+.soft {
+fill: rgb(18, 65, 112);
+}
