@@ -1,0 +1,9 @@
+use below color pallet
+
+primary:#124170
+secondary:#26667F
+tirtiory:#67C090
+last:#DDF4E7
+
+image path:img/
+font  path:font/
