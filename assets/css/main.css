@@ -10,7 +10,7 @@ body {
   font-family: "Heebo", sans-serif;
   font-weight: normal;
   font-style: normal;
-  color: #676F73;
+  color: #27445D
   overflow-x: hidden;
 }
 
@@ -102,7 +102,7 @@ h1 {
 .section-title span {
   font-size: 25px;
   font-weight: 600;
-  color: #E8505B;
+  color: #27445D;
   margin-bottom: 20px;
 }
 
@@ -172,7 +172,7 @@ p {
   z-index: 5;
   transition: all .4s ease-in-out;
   border: none;
-  background: #E8505B;
+  background: #27445D;
   overflow: hidden;
 }
 
@@ -208,7 +208,7 @@ p {
 .scroll-top {
   width: 45px;
   height: 45px;
-  background: #E8505B;
+  background: #497D74;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -225,7 +225,7 @@ p {
 
 .scroll-top:hover {
   color: #fff;
-  background: rgba(232, 80, 91, 0.8);
+  background: rgb(239, 233, 213 ,0.8);
 }
 
 @keyframes animation1 {
