@@ -5,7 +5,12 @@
 html {
   scroll-behavior: smooth;
 }
-
+/* Ensure images are responsive and scale with their containers */
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
 body {
   font-family: "Heebo", sans-serif;
   font-weight: normal;
