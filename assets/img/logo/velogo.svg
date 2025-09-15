@@ -6,10 +6,12 @@
   <rect width="100%" height="100%" fill="none"/>
 
   <!-- Text logo -->
-  <text x="20" y="92"
+  <text x="20" y="120"
         font-family="LineIcons, Arial, sans-serif"
-        font-size="140"
+        font-size="180"
         font-weight="700">
     <tspan fill="rgb(73,125,116)">ve</tspan><tspan fill="rgb(39,68,93)">soft</tspan>
   </text>
+  <!--line x1="20" y1="10" x2="430" y2="10" stroke="rgb(39,68,93)" stroke-width="15" /-->
+  <!--line x1="20" y1="130" x2="550" y2="130" stroke="rgb(39,68,93)" stroke-width="10" />-->
 </svg>

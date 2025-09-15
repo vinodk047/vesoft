@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="800" height="240" viewBox="0 0 700 140" role="img" aria-labelledby="title desc">
+  <title id="title">vesoft logo</title>
+  <!-- Background (transparent) -->
+  <rect width="100%" height="100%" fill="none"/>
+  <rect x="10" y="-40" width="170" height="140" fill="rgb(39,68,93)" />
+  <rect x="170" y="-40" width="290" height="140" fill="rgb(73,125,116)" />
+  <!-- Text logo -->
+  <text x="20" y="72"
+        font-family="LineIcons, Arial, sans-serif"
+        font-size="140"
+        font-weight="700">
+    <tspan fill="rgb(255,255,255)">vesoft</tspan>
+  </text>
+</svg>
