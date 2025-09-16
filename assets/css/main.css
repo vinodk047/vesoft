@@ -1155,7 +1155,7 @@ p {
 }
 
 .sticky .navbar .navbar-nav .nav-item a {
-  color: #222;
+  background: #fff;
 }
 
 .sticky .navbar .navbar-nav .nav-item a::before {
